@@ -1,0 +1,5 @@
+{
+    "accessibility.voice.speechLanguage": "en-US",
+    "accessibility.voice.keywordActivation": "chatInView",
+    "accessibility.voice.autoSynthesize": "on"
+}
